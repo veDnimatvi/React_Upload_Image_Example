@@ -1,1 +1,3 @@
-# React_Upload_Image_Example
+# react-upload-image
+# npm install
+# npm start
